@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "desarrollo",
+        "password": "sanduche.333",
+        "database": "noticias1",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "operatorAliases": false
+    },
+    "staging": {
+        "username": "qa_staging",
+        "password": "sanduche.333",
+        "database": "dbdesarrollo",
+        "host": "192.168.10.1",
+        "dialect": "mysql",
+        "operatorAliases": false
+    },
+    "production": {
+        "username": "production_news",
+        "password": "s.333",
+        "database": "db_desarrollo",
+        "host": "192.168.101.25",
+        "dialect": "mysql",
+        "operatorAliases": false
+    }
+}
